@@ -82,20 +82,6 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
         description: | # this will include new lines to allow paragraphs
-          My team developed and fine-tuned models for Automatic Speech Recognition (ASR) with OpenAI's Whisper, Natural Language Processing (NLP) with spaCy and Computer Vision (CV) with YOLO. Utilised Docker for model containerisation and deployment.
-      - layout: top-middle
-        title: BrainHack 2024 AI Competition
-        link: https://github.com/Alutare/DSTA_Brainhack2024_AI
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: https://github.com/Alutare/DSTA_Brainhack2024_AI
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-        description: | # this will include new lines to allow paragraphs
           My team developed and fine-tuned models for Automatic Speech Recognition (ASR) with OpenAI's Whisper, Optical Character Recognition (OCR) with Tesseract and Computer Vision (CV) with YOLO. Utilised Docker for model containerisation and deployment.
       - layout: top-middle
         title: BrainHack 2024 AI Competition
@@ -110,6 +96,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
         description: | # this will include new lines to allow paragraphs
+          My team developed and fine-tuned models for Automatic Speech Recognition (ASR) with OpenAI's Whisper, Natural Language Processing (NLP) with spaCy and Computer Vision (CV) with YOLO. Utilised Docker for model containerisation and deployment.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -122,7 +109,7 @@ content:
         caption: January 2025 - June 2025
         quote: >
         description: | # this will include new lines to allow paragraphs
-            Developed solutions such as manufacturing analytics dashboards and machine learning applications to track, analyze and visualize outgoing quality of supplies. Optimizied business processes through data visualization, real-time monitoring and predictive analytics. Utilised mainly Python and SQL programming languages.
+            Developed solutions such as manufacturing analytics dashboards and machine learning applications to track, analyze and visualize outgoing quality of supplies. Optimized business processes through data visualization, real-time monitoring and predictive analytics. Utilised mainly Python and SQL programming languages.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
