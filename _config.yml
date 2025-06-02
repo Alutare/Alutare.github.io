@@ -83,6 +83,7 @@ content:
         quote: >
         description: | # this will include new lines to allow paragraphs
           My team developed and fine-tuned models for Automatic Speech Recognition (ASR) with OpenAI's Whisper, Optical Character Recognition (OCR) with Tesseract and Computer Vision (CV) with YOLO. Utilised Docker for model containerisation and deployment.
+          
       - layout: top-middle
         title: BrainHack 2024 AI Competition
         link: https://github.com/Alutare/DSTA_Brainhack2024_AI
