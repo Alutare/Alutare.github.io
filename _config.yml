@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Kevin Chan
-title: Data Science Undergraduate
+title: NUS Data Science Undergraduate
 email: kevinchanfsa@gmail.com
 website: https://alutare.github.io/
 
@@ -67,8 +67,22 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
         description: | # this will include new lines to allow paragraphs
-          My team won 1st place out of 94 teams by developing a machine learning model using XGBoost to classify business corporate ownership into three categories, achieving a 91% accuracy rate and a 91% weighted F1-score.
+          My team won 1st place out of 94 teams by developing a clasification model using XGBoost to predict business corporate ownership into three categories, achieving a 91% accuracy rate
 
+      - layout: top-middle
+        title: BrainHack 2025 AI Competition
+        link: https://github.com/Alutare/DSTA_Brainhack2025_AI
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: https://github.com/Alutare/DSTA_Brainhack2025_AI
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+          My team developed and fine-tuned models for Automatic Speech Recognition (ASR) with OpenAI's Whisper, Natural Language Processing (NLP) with spaCy and Computer Vision (CV) with YOLO. Utilised Docker for model containerisation and deployment.
       - layout: top-middle
         title: BrainHack 2024 AI Competition
         link: https://github.com/Alutare/DSTA_Brainhack2024_AI
@@ -82,7 +96,20 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
         description: | # this will include new lines to allow paragraphs
-          My team developed and fine-tuned models for Automatic Speech Recognition (ASR) with OpenAI’s Whisper, Natural Language Processing (NLP) with spaCy and Computer Vision (CV) with YOLO. Utilised Docker for model containerisation and deployment.
+          My team developed and fine-tuned models for Automatic Speech Recognition (ASR) with OpenAI's Whisper, Optical Character Recognition (OCR) with Tesseract and Computer Vision (CV) with YOLO. Utilised Docker for model containerisation and deployment.
+      - layout: top-middle
+        title: BrainHack 2024 AI Competition
+        link: https://github.com/Alutare/DSTA_Brainhack2024_AI
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: https://github.com/Alutare/DSTA_Brainhack2024_AI
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+        description: | # this will include new lines to allow paragraphs
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -95,9 +122,7 @@ content:
         caption: January 2025 - June 2025
         quote: >
         description: | # this will include new lines to allow paragraphs
-            Developed solutions such as manufacturing analytics dashboards and machine learning applications to track, analyze and visualize outgoing quality of supplies.
-
-            Developed methodologies for optimizing business processes through data visualization, real-time monitoring and predictive analytics. Utilised mainly Python and SQL programming languages.
+            Developed solutions such as manufacturing analytics dashboards and machine learning applications to track, analyze and visualize outgoing quality of supplies. Optimizied business processes through data visualization, real-time monitoring and predictive analytics. Utilised mainly Python and SQL programming languages.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -108,15 +133,15 @@ content:
         sub_title: BSc (Hons) Data Science and Analytics
         # quote: >
         description: | # this will include new lines to allow paragraphs
-          As I pursue my studies, I am focusing on deepening my knowledge in data science and analytics, with a particular interest in machine learning and data engineering.
+          As I pursue my studies, I am focusing on deepening my knowledge in data science and analytics, with a particular interest in AI, machine learning and data engineering.
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in data and software engineering some of my other interests and hobbies are:
-      - Travelling
-      - Rock climbing
-      - Gaming (Varsity player for NUS Esports Mobile Legends team)
+  # - title: A Little More About Me
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     Alongside my interests in data and software engineering some of my other interests and hobbies are:
+  #     - Travelling
+  #     - Rock climbing
+  #     - Gaming (Varsity player for NUS Esports Mobile Legends team)
 
 # Footer
 footer_show_references: true
